@@ -1,0 +1,7 @@
+{
+  "name": "FIND-BACK - AI Physical-Object Memory",
+  "description": "Your phone remembers where you left it. Android-first multimodal memory application for everyday objects.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
